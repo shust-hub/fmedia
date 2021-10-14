@@ -408,8 +408,8 @@ hr {
                                 }
                                 .precept__text{
                                     font-weight: 500;
-                                    font-size: 18px;
-                                    line-height: 22px;
+                                    font-size: 14px;
+                                    line-height: 18px;
                                     color: #181A19;
                                     margin-bottom: 0;
                                 }
@@ -543,6 +543,10 @@ hr {
                                     border-radius: 241px;
                                     padding:12px 38px 14px 93px;
                                     max-width: 461px;
+                                    .precept__text{
+                                        font-size: 18px;
+                                        line-height: 22px;
+                                    }
                                 }
                             }
                         }
